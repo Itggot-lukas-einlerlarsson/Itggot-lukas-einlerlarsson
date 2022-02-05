@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itggot-lukas-einlerlarsson
 - 👀 I’m interested in music, IT
-- 🌱 I’m currently learning IT-security, studying on BTH in Karlskrona, southern sweden.
+- 🌱 I’m currently learning about programming and IT-security, studying on BTH in Karlskrona, southern sweden.
 - 💞️ I’m looking to collaborate on nothing atm, still just learning.
 - 📫 How to reach me lukas.einlerlarsson@itggot.se 
 
